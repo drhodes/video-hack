@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "6002x-vid-hack",
+    "description": "6002x-vid-hack",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://courses.edx.org/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
