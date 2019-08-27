@@ -2,5 +2,3 @@
 this project is a chrome extension that swaps out bad youtube video
 urls for good urls.  It is not done yet.
 
-* to install
-https://9to5google.com/2015/06/14/how-to-make-a-chrome-extensions/
