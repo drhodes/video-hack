@@ -3,15 +3,15 @@ This is a chrome extension that swaps youtube videos.
 
 How to install?
 
-1) Download the code. unzip it if necessary and rename the directory: 6002x-hack
+- Download the code. unzip it if necessary and rename the directory: 6002x-hack
 
-2) enter the following text into the URL bar:  
+- enter the following text into the URL bar:  
 
 chrome://extensions/
 
-3) click the "load unpacked" button
+- click the "load unpacked" button
 
-4) select the directory 6002x-hack
+- select the directory 6002x-hack
 
 ----
 
