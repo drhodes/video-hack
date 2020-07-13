@@ -1,5 +1,9 @@
-* 6.002x video hack.
-This is a chrome extension that swaps youtube videos.
+* What does this thing do?
+This is a chrome extension that swaps youtube videos.  For whatever
+reason, some youtube videos on the 6.002x course website are not
+working.  This code tries to swap out bad videos for good videos,
+that's it.
+
 
 How to install?
 
