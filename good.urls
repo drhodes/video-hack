@@ -1,463 +1,888 @@
+WORKING
+#9kpWvV-sdwg | Welcome
+#JK-K6X9kPW0 | Motivation
+#pceDjsHt82A | Course Overview
+#CbyZVLYuqTw | Topics Covered
+
+#lRNVqr--DGM | Circuit Simulator
+https://youtu.be/0iQkPm8rwDA
+%%"0iQkPm8rwDA": "lRNVqr--DGM",
+
+#Q7VVM5uEnVI | Circuit Simulator - DC Analysis
+https://youtu.be/eLGa_Wo6JxA
+%%"eLGa_Wo6JxA": "Q7VVM5uEnVI",
+
+#txnL7-NOr5U | Circuit Simulator - Transient Analysis
+https://youtu.be/X-68e0Ei7PI
+%%"X-68e0Ei7PI": "txnL7-NOr5U",
+
+#ymY1IldQwmw | Circuit Simulator - AC Analysis
+https://youtu.be/QNg4OEvaq2E
+%%"QNg4OEvaq2E": "ymY1IldQwmw",
+
+#IJaEP06Qk1I | 1st Order Differential Equations
+https://youtu.be/2s9z1zLOAJY
+%%"2s9z1zLOAJY": "IJaEP06Qk1I",
+
+#4GQp1VO2E6w | Complex Arithmetic
+https://youtu.be/Oy6SWLhQ93U
+%%"Oy6SWLhQ93U": "4GQp1VO2E6w",
+
+#aXOU7Gn6Noc | Complex Geometry
+https://youtu.be/QT7MbAQzuXc
+%%"QT7MbAQzuXc": "aXOU7Gn6Noc",
+
+#i9OPi6o3-I4 | Polar Coordinates 1
+https://youtu.be/Dn15yA2e5LU
+%%"Dn15yA2e5LU": "i9OPi6o3-I4",
+
+#gP7C_N4sFg0 | Polar Coordinates 2
+https://youtu.be/YMHdPnSknOI
+%%"YMHdPnSknOI": "gP7C_N4sFg0",
+
+#tLG0q9tN0Qk | Euler's Formula
+https://youtu.be/AOd9r70gtr0
+%%"AOd9r70gtr0": "tLG0q9tN0Qk",
+
+#28fI01DDOOA | Inverse Euler
+https://youtu.be/9RNLqOV3nTU
+%%"9RNLqOV3nTU": "28fI01DDOOA",
+
+#QfQcX6Gxlsg | Complex Exponentials
+https://youtu.be/wJHeTVL7cgQ
+%%"wJHeTVL7cgQ": "QfQcX6Gxlsg",
+
+#tJaYygU4-sM | Complex Replacement
+https://youtu.be/KhYtUbLlmfA
+%%"KhYtUbLlmfA": "tJaYygU4-sM",
+
+#Ayv6lLUDGJU | Complex Roots 1
+https://youtu.be/SvgakMnWfL0
+%%"SvgakMnWfL0": "Ayv6lLUDGJU",
+
+#ybQLYi7J9mk | Complex Roots 2
+https://youtu.be/MIYHeZubhCA
+%%"MIYHeZubhCA": "ybQLYi7J9mk",
 
 
-9kpWvV-sdwg == Welcome
-JK-K6X9kPW0 == Motivation
-pceDjsHt82A == Course Overview
-CbyZVLYuqTw == Topics Covered
-lRNVqr--DGM == Circuit Simulator
-Q7VVM5uEnVI == Circuit Simulator - DC Analysis
-txnL7-NOr5U == Circuit Simulator - Transient Analysis
-ymY1IldQwmw == Circuit Simulator - AC Analysis
-IJaEP06Qk1I == 1st Order Differential Equations
-4GQp1VO2E6w == Complex Arithmetic
-aXOU7Gn6Noc == Complex Geometry
-i9OPi6o3-I4 == Polar Coordinates 1
-gP7C_N4sFg0 == Polar Coordinates 2
-tLG0q9tN0Qk == Euler's Formula
-28fI01DDOOA == Inverse Euler
-QfQcX6Gxlsg == Complex Exponentials
-tJaYygU4-sM == Complex Replacement
-Ayv6lLUDGJU == Complex Roots 1
-ybQLYi7J9mk == Complex Roots 2
-SARifVyl31E == Welcome to Circuits and Electronics 1
-P9I8ZCcl-cQ == Lumped element abstraction
-4znM0dBL5IU == Lumped element abstraction
-5M9cgafkXJI == Lumped element abstraction
-o20JCdq1Iw4 == Lumped element abstraction
-X51ZVdQ3DfE == Demo Setup - Lumped Elements
-kwDyvWzO-H0 == Demo - Taking Abstraction Too Far
-lbSGLpqSUoM == Lumped Element Abstraction
-z57XCPA8wdQ == Lumped Element Abstraction
-dgRnt37V3Zk == KVL, KCL
-jhzE4wcL8rQ == Summary
-Onih-XnNaHE == Review - Kirchhoff's Voltage &amp; Current Laws
-7E6vm__Y4zo == Demo - Kirchhoff's Voltage &amp; Current Laws
-dsUFu3GOiqU == Method 1 - Kirchhoff's Voltage &amp; Current Laws
-eNz5fFolopI == Method 1 - Kirchhoff's Voltage &amp; Current Laws
-L1bStd_ZSrM == Element combination rules
-u8yZVlbfmlE == Node Analysis
-yI7cKzjXFuM == Method 3 - Node Analysis
-aBiJH3GCV-g == Method 3 - Node Analysis
-2tk1KN6FTHI == Method 3 - Node Analysis
-iYbLQp6Elik == Method 3 - Node Analysis
-1FY4PCSwW5I == Matrix formulation
-dfOgGeY6JGc == Tutorial intro by Piotr and Gerry
-ZWcUNPyK2TM == Series resistors
-VXiVNpo3fgo == Parallel Resistors
-zG7ZrP4hXz4 == Series and parallel resistors
-lOLeXP1Tjrc == Combination Rules
-6DD4tAlzsII == Nodal analysis
-yh8IMCzlE08 == Nodal Analysis with Floating Voltage Source
-ZhMiWBaqFb0 == Maxwell's Equations and the Circuit Abstraction
-bSDmv3_n32Y == A light bulb circuit
-07mjRg1XOg4 == Three Resistors
-JmGQow9qZzE == Three Resistors in Parallel
-5_0nhpn3ddE == Combining Resistors
-W1yYxUb89Tg == Resistor Network
-pb0m_1sMEf8 == Chains of resistors
-YDg_U4zBsDg == More chains of resistors
-piX3gQ2Z30I == Even more chains of resistors
-AiLyaxPDaPM == Yet some more chains of resistors
-6JTj7LXKw38 == Reverse Engineering
-wkGkTmIPIrY == Introduction to Linearity
-HUJSDavc9_8 == Properties of Linearity
-uLGueZAcvS4 == Superposition 1
-GmdNxZVcCTU == Superposition 2
-MoikZcl4gMQ == Superposition 3
--mmRmr8Ssv0 == Demo on Superposition
-2_jOGqoYQ0w == Thevenin Method 1
-n20pq7K6dzI == Thevenin Method 2
-i7qO3HK2k2Y == Thevenin Method 3
-0PmFncn85qU == Norton Method
-9bAAjZxkB0I == Summary
-PfY88Ntcw1w == Static Discipline and Boolean Logic - Intro, Review
-tpgdjGXa_zI == Why Digital 1
-EYp3Pc5PbDU == Why Digital 2
-cK-jVbxvKLU == Why Digital 3
-pVM1lKFYMzE == Static Discipline
-wzdQywtHD4k == Static Discipline
-Oewa1QOPkTo == Static Discipline
-RLcyZK2p1-U == Static Discipline
-zVi2VGXtd1U == Static Discipline
-W4-jJtA5wC4 == Digital Logic Circuits
-1BYXFQ3mXHk == Digital Logic Circuits
-JLeVpx8Ks04 == Digital Logic Circuits
-hcgsf7maQ5U == Digital Logic Circuits
-dck7OO7oZZ8 == Digital Logic Circuits
-lyO5hHQanUU == Demo Setup - Chain Saw
-UEq8vEggZNY == Demo - Chain Saw
-TGP2vfieB-8 == Resistor Question
-VvS0knaixU0 == Resistor Answer
-A_hTaMhdaZs == Diode Question
-sdz7gNe03p0 == Diode Answer
-z8_XiWAvFRI == Voltage Source Question
-zyhqKNQ7_oo == Voltage Source Answer
-dSiy0aYgm9A == Current Source Answer
-GRZ0q4DnRn4 == Composite Circuit Question
-tyMxY_5l2eg == Composite Circuit Answer
-g9kCH1WaJNg == How good is the lightbulb model?
-8_RV4YdL6iw == Using nodal analysis
-6TxxJW78ab0 == Using superposition
-Afw-Cl0S8EA == Logic gates, part 1
-2clqcvqrCw == Logic gates, part 2
-jUvteJXf0MA == Thevenin example 1
-fxmDaefdHiw == Speakers, Heatsinks, and Houses
-QhuR93mb4XY == Cardiac Experiment
-QuHuGrkdbgU == Review, Gates
-3ZMci0KGxVo == Demo Setup - Gates
-RMHnZIcLnpo == Demo - Gates
-ILQHYT_Ibrg == How to Use a Gate
-jjargr1OqAk == Switch Model
-77rUrZjUses == Switch Model
-uVLvyxVJjtY == Switch Model
-Zxqh4uvbFXM == Switch Model
-zKm3J3eAre4 == MOSFET Device, S Model, Demo Setup
-lNzx0HYQUY0 == MOSFET Device, S Model, Demo Setup
-Nk9suWjmls8 == MOSFET Device, S Model, Demo Setup
-uEh4FoDUo8k == DEMO MOSFET Switch Device, S Model Curve
-ZJEGwnos7o4 == MOSFET Inverter
-takrussSdhE == MOSFET Inverter
-kq373W157sw == SR Model
-YOzKoMzm2dw == DEMO SR Model Curve
-TuHH7hziz_I == Inverters Based on SR Model
-J1h4xiLnQbs == Static Power in Digital Circuits, Insights
-CbiEQwBWC1A == Demo - Shatter a Mouse
-NAp2cKUT8Nk == Review of the Course So Far
-FSkJ1DajGWI == Nonlinear Elements
-qnhJtoCpS4U == Method 1 - Analytical Method
-QVuuyuwAdWM == Method 1 - Analytical Method
-vQWbi6rorOc == Method 1 - Analytical Method
-aorFE5ojAiM == Method 2 - Graphical Method
-_zR_RWatho8 == Method 2 - Graphical Method
-T2sDGIKQJ80 == Method 3 - Piecewise Linear Method
--rkh4JU4jL4 == Method 3 - Piecewise Linear Method
-Esrldiv5IeE == Method 3 - Piecewise Linear Method
-lV69Z5LVMh8 == Method 4 - Motivate the Incremental Method
-Hk2K5zUcrAE == Method 4 - Motivate the Incremental Method
-puu8I2azvQ8 == Demo - Distorted Music with Nonlinear Element
-Md-vLhog-ug == If Only Circuits Were Linear
-jDSS59cLsnw == Comparing noise margins
-n_5905Y8yFo == Truth table to circuit, part 1
-WmMKnoyi48o == Truth table to circuit, part 2
-tWgR-SeQ5w4 == Truth table to circuit, part 3
-c6xyF7KeGlE == MOSFET power dissipation
-4chlMf53hjs == Load Lines
-guhTZT_w2Po == Review
-B40snYwJUXQ == Intro - Setup for Demo, Curve Plotting Animation
-kKI5fX_vyNI == DEMO - Music Over a Light Beam, Distorted Sinusoid and Music
-Mwt2eg0r1Ng == Incremental Method Insight
-FT846xLuHIM == Incremental Method Insight
-yC57ihkg3yA == DEMO - Music Over a Light Beam, Distortion and No Distortion
-rb-85PChqh0 == Mathematical Meaning 1
-60vzws37eRg == Mathematical Meaning 2
-k1veAXTLZlE == Mathematical Meaning 3
-I5gmmRbPt74 == Graphical Meaning
-IZx7ZY-jNpI == Circuit Model 1
--3GStZkzk8E == Circuit Model 2
-2PbAET-E2YA == Small Signal Circuit Elements 1
-fJLul8ycrs0 == Small Signal Circuit Elements 2
-Js8tV66_qR8 == Small-Signal Circuit Solution Example 1
-U4Sw9-wrrX8 == Small-Signal Circuit Solution Example 2
-b3mM-4nxQmY == Review
-CqxxQHM5-Ss == Intro to Dependent Sources
-G8pxnaBLLPI == Example Dependent Source Circuit
-8m1yyI0lLUc == Various Types of Dependent Sources
-PlUD49sM0Jw == Another Dependent Source Example 1
-36E_Ltpnuhg == Another Dependent Source Example 2
-p5lABjD_HxY == Superposition with Linear Dependent Sources
-Y6ga6dixHbM == Intro to Amplifiers, Why Amplify 1
-6IxZixMgXVU == Intro to Amplifiers, Why Amplify 2
--elmpPYqGzY == Build Amplifier with Abstract Dependent Source
-3QBL5TKwFHk == Build Amplifier with Abstract Dependent Source
--Hqt0Ahj5Gs == DEMO - Amplification
-apOQVYcaQc8 == What Happens to Amplifier When Dependent Src has to Src Power 1
-Hkzg0Yj3Pbo == What Happens to Amplifier When Dependent Src has to Src Power 2
-vbDffSXkVtE == What Happens to Amplifier When Dependent Src has to Src Power 3
-R42vYJpMiGg == DEMO - Amplifier Transfer Function Stops Behaving Well
-HU7IJZZmRNA == Conclusion
-K23PViorXBU == Load Line Experimental Demo
-hnA51lLZvXI == Small-signal model
-SIRrGtUoVrM == An abstract element
-C7hEh2xgim0 == Small signal model of a diode
-lWZegW5ADDA == Good schematics
-rRfwAgW_fso == Current controlled attenuator
-Tl4kLulV4ts == Large Signal Analysis
-3CikI6QeEdY == Small-Signal Analysis
-rseBRO0dbkU == Small-signal problem
-4Bz9FKzHB7A == Load line
-w92vXOAaAQs == Dependent source example
-qU4VVEXw1nM == Circuits &amp; Electronics - 2.0 Welcome to Circuits and Electronics 2
-kY0iYX_PCTg == Circuits &amp; Electronics - 2.1.1.1 - Review
-ee3F0JFhPJ4 == MOSFET Characteristics as a VCCS
-toVHjqsWgqA == DEMO - MOSFET SR model
-NQp9YmQOHc8 == MOSFET characteristics as a dependent current source
-K1CngxaPcxI == DEMO - MOSFET characteristics as VCCS
-4AEREmEENGg == MOSFET SCS model
-upssTbehOZM == MOSFET SCS model
-SVUcmOsGwqE == MOSFET amplifier
-8cTTU7ud4Ck == MOSFET amplifier
-4B8tNR64xh8 == Analytical method for analyzing amplifier
-2iHwgeFww5c == Graphical method for analyzing amplifier
-HP39f5Zr3xk == Graphical method for analyzing amplifier
-bXghktFTTkE == Large signal analysis
-lVT1wr_P6JY == DEMO Amplifier entering into the triode region
-MZ4XnKyGQqY == Large signal analysis - valid ranges of operation
-eFI1B_WmOEY == Graphical method for analyzing amplifier
-L5cEFCC4Dmw == Valid ranges of operation - another way
-Yi1zPfJS-oA == Review
-W_yNATshIos == Amplifier distorts
-f8ydoyCrQoc == DEMO - Amplifier distorts
-DENkWAH7Ayw == The small signal trick
-DydjWxm5OT0 == Graphical view of small signal
-uY39H9olU54 == Mathematical view of small signal
-Tc1nc2nXLAU == Mathematical view of small signal
-gGV-LNVlO_0 == Small signal amplifier demo setup
-RpFEANm2i1c == DEMO small signal amplifier
-qaWoxW-6zsM == Op Amp Small Signal Model
-b3TYrF10FyI == Op amp small signal model, part 1
-P7amJvwhx5k == Op amp small signal model, part 2
-B7sXgXzQyrA == Op amp small signal model, part 3
-ax9R8hhSBCM == BJT small signal model, problem statement
-KQB-tSSfaGw == BJT small signal model, part 1
-6ejbKCkf7pY == BJT small signal model, part 2
-Sglr5Yb4BE8 == BJT small signal model, part 3
-wh4WsKCPqRE == BJT small signal model, part 4
-zrozpzrgV1E == BJT small signal model, part 5
-vEfl3MXN2EU == BJT small signal model, part 6
-2FjBxJknQrs == Large signal analysis of MOSFET amplifier
-NnKQcmL47d8 == Large signal analysis of MOSFET amplifier, source degeneration
-IgKpSaHBP7g == Transistor biasing with feedback, Part 1
-sk4EzNho5tM == Transistor biasing with feedback, part 2
-Jcay9L4AYUg == Diode connected MOSFET
-_d2aOXsigTk == Large and small signal analysis of MOSFET amplifier
-I7PRE3auORw == Review
-kjyma_Wz354 == Choosing an Operating Point for the Amplifier
-L1OX0LexJH8 == Choosing an Operating Point for the Amplifier
-AudCFIcYuC8 == DEMO - How to Choose the Bias Point for an Amplifier
-qJBB35j5Zrk == Small-Signal Circuit Model
-wdKkk5waw-s == Small Signal Element Circuit Models
-U5nP1ED2TIg == Small-Signal MOSFET Circuit Model
-OZZXQ9ia3v8 == Small-Signal Circuit Analysis of Amplifier
-MkjBfq8-nU8 == Small-Signal Circuit Analysis of Amplifier Continued
-GOeBXqwLH4o == Perspective on the Small Signal Circuit
-6YAsSu3PK6c == Perspective on the Small Signal Circuit
-JSf4FmoEDoM == Motivation
-4HAC9Ux3zeI == DEMO - Motivation
-Ik2fRwDAIA4 == Structure of a Capacitor 1
-Ow0Qlry6aBM == Structure of a Capacitor 2
-mm-dfzVUtrY == Structure of a Capacitor 3
-CS_xItVv-Wo == Ideal Linear Capacitor
-cTNEZT7CWdk == DEMO - Stored Energy in a Capacitor
-kV4oTArKSHE == Capacitor and a Current Source
-DGld3oGGamo == First Order Series RC Circuit 1
--muSm14Gfug == First Order Series RC Circuit 2
-8Y0n-KqJXog == Solving a First Order Differential Equation 1
-yy9ZHWMi_6g == Solving a First Order Differential Equation 2
-4nc9Yb_okJY == Graphing the Solution to First Order RC Circuit 1
-YFX7C9Waax4 == Graphing the Solution to First Order RC Circuit 2
-0Dio_kJAbII == Graphing the Solution to First Order RC Circuit 3
-23yrq6HbUPU == DEMO - RC Transients
-_GiTn3kWA1I == Vacuum Triode Model
-d67MRYtvPvo == A more advanced model of the MOSFET
-WZ7tdnMBHTg == Two-stage MOSFET amplifier
-8oxXHiL8adw == Simple circuit with resistor and capacitor
-SWdB7kuUZM8 == Parallel plate capacitor, part 1
-ZwMj59b7X2Y == Parallel plate capacitor, part 2
-Ib4KJ54hN4c == Current source and current mirror
-KG2vznNMmMQ == Source coupled pair
-O7Lt0gA_5Ug == Ring Oscillator - Circuit
-9G5uSGESA68 == Ring Oscillator - Waveforms
-vGxPI0Jmt_A == Ideal Linear Inductors 1
-5bGDKcGX0JQ == Ideal Linear Inductors 2
-9Nms4LJ2qCY == Energy Storage in an Inductor
-o2ZQEhA4ebE == Inductor and a Voltage Source
-USGLE1QPI7s == Analyzing a First Order RL Circuit 1
-TFWKT5FUgg4 == Analyzing a First Order RL Circuit 2
-VwyfHZEPb_4 == Review
-6nxQ8EALsAA == Speed of Digital Circuits - An Intuitive Approach 1
-a9PzmvsqXH4 == Speed of Digital Circuits - An Intuitive Approach 2
-w44jDHX9nEA == DEMO - Inverter delay
-Ijsq1eWyb9g == Rising Delay 1
-MdGa5qUVXR0 == Rising Delay 2
-LMNHD-Wg7fs == Rising Delay 3
-Y3bjD1cNWIM == Falling Delay 1
-ySg2ofHZLks == Falling Delay 2
-n58AaBoVPEs == Falling Delay 3
-TkMTPEuihb4 == Slower May Be Better 1
-22TaKWscJq8 == Slower May Be Better 2
-Qa3aWHNAwKE == Bypass Capacitor
-ijTwD7fGY7k == Geometry and Capacitance Inductance
-gp011bFnyw0 == Constitutive laws for capacitors and inductors
-5jYXBfSIe5c == Unknown Capacitance
-LfbePMcRy2I == Unknown Inductance
-jvSZMd7VXzA == Time-varying Capacitance
-XhHxmWtYhwE == Types of Capacitors
-g4JM9-ntFwM == Motivation and review, modelling drug delivery
-acmUWC5nI9I == Step input
-AF9mlNub2T8 == RC response to rising step 1
-uOXAcwPMags == RC response to rising step 2
-mxWuyH3DtBI == RC response to rising step 3
-_m73q7rZ5ts == RC response to falling step 1
-RvSZLTABKx4 == RC response to falling step 2
-5RAaqdf8EDA == Pulse input 1
-YeHTJu_RZw8 == Pulse input 2
-mb9ITLiZHs4 == Pulse input 3
-IZbkuuXB4mc == Pulse input 4
--1nQlxEBzBY == Response to pulse, as pulse gets narrower 1
-TwRljtSX9ew == Response to pulse, as pulse gets narrower 2
-lGR83KsBRaw == Response to impulse, limit case 1
-PGpamVtS-R0 == Response to impulse, limit case 2
-OZ2we1jqIEY == Response to impulse, drug delivery
-NP-4-cM8ch4 == Current and voltage impulses
-EElD9YIOfTY == Initial conditions and superposition
-9Up3gRoOBtk == Impulses, steps and ramps 1
-ccQMeMdydrs == Impulses, steps and ramps 2
-giUVsj5dYfI == More on slower may be better demo
-QVj_KCRubHk == Slower may be better - why?
-HXbcpqTM1Tg == Slower may be better, model
-hNkGlbJulew == Spikes explained - crosstalk
-MKiklDzr7RA == Slower may be better, demo part 1
-Z-xvTOBYoqo == Slower may be better, demo part 2
-B7HKRhR4G2Q == Slower may be better, ramp input
-8DronXE_VXM == Review
-Ruio-kTuOc4 == Concept of state
-5rckwWE1CpI == ZIR and ZSR
-I-PrtMTdbwo == Digital memory abstraction
-hHrbleVQL6A == Building a memory element
-xFGAz259v9I == Storage time
-1BcwDZAw9W4 == Building a better static memory element 1
-1G6xCm7qqyo == Building a better static memory element 2
-krUO_sSDLKw == A digital memory array 1
-NlrolO3vkk0 == A digital memory array 2
-O9utUs8q3qY == Conclusion
-WHjBICv660g == RC circuit step response
-XdVGTaOTqp4 == RC filter with a dependent source
-dFqSMTCNK84 == First order filter step responses
-MjPDsm4S3-o == Welcome to Circuits and Electronics 3
-NiZ1xxM4pTw == Motivating Example
-Uc8TMY46OV8 == DEMO Slow Output Risetime
-GMzJr52hasI == Motivating Example - Fast Case
-41pf5airIrM == Demo - Fast Case - Ringing
-dNfBk9kjwNk == What's Going on with the Fast Case
-AX8taRGNXoo == What's Going on with the Fast Case - Part 2
-GNC1s5JD4b0 == LC Network
-AEmDMFNTHFc == Solving Second Order Differential Equation DE, Particular Solutio
-mZIUhgFJmEQ == Particular and Homogeneous Solutions
-CwPex9xSYqA == Homogeneous Solution and Characteristic Equation
-njxKsUgSp60 == Total Solution - Part 1
-1saZpWbQ-lo == Total Solution - Part 2
-yLvWm9qmRiU == Plotting the Total Solution
-5jlG-3HYeH8 == DEMO Driven LC Network Response
-0_fEC90sSQU == Summary of Solving Second Order DEs
-mVT7388vh5M == Example - Undriven LC Circuit
-Qtiuw83WhH4 == Undriven LC Network Response
-yWDUxnuxM2o == Preview of RLC Circuits
-62RZxV5nd6Q == Review
-TrEo_ONvJLE == Driven, Series RLC Circuit
-H1os32ts0Vo == Setting up the Differential Equation
-ggc3hzOCe4U == Setting up the DE - Part 2
-zkxmcx5Gimg == An Easier Way of Setting Up the DE
-zQQ097pQIsw == Solving the Second Order DE
-QjmIbt5mZnQ == Particular Solution - Part 1
-eBWtlDLkwA0 == Particular Solution - Part 2
-_1QqJvGuN4Q == Homogenous Solution - Part 1
-hNdYDMLdQQ0 == Homogenous Solution - Part 2
-DBld_fXgS4Q == Total Solution
-IO49X5_pHAs == RLC Dynamics - Overdamped Case
-rOTkDNhsEDI == RLC Dynamics - Underdamped Case
-7uKLP1Ptm8Y == RLC Dynamics - Underdamped Case, Part 2
-1ASdm2lirCA == Underdamped Case - Response
-tALw3sx6AmI == RLC Dynamics - Critically Damped Case
-gBPoc7brEL8 == Inverter Pair RLC Dynamics
-eX_JrVWHo4k == Intuitive Analysis of Second Order Circuits - Part 1
-4i0MoRN394E == Intuitive Analysis of Second Order Circuits - Part 2
-iIJAmF7rIH4 == Other Variables in RLC Circuits
-YU0TZupUoRg == Driven, Parallel RLC Circuit
-gx6dJxPrinY == Step response of RC and RLC circuits, part 1
-DwjBRwibbt8 == Step response of RC and RLC circuits, part 2
-7ozCxbf5omU == Step response of RC and RLC circuits, part 3
-CqelB_JrnOA == Step response of RC and RLC circuits, part 4
-yIVEq6mzCLQ == Step response of RLC
-AJxW99_GxNI == Response of RLC to change in conditions
-O7dbCO1TQ_I == Natural frequencies of RLC circuits, part 1
-unTa-uFj8ss == Natural frequencies of RLC circuits, part 2
-IUQjA0GgBHo == Natural frequencies of RLC circuits, part 3
-zF3KUIT3-Ec == Natural frequencies of RLC circuits, part 4
-oVhBCeY2IVI == Design of an LC oscillator
-EHdr_bokSLU == DC-DC Circuit Concept
-KHY_-1URTi0 == DC-DC Conceptual Analysis
-Maoa6UqkWSY == DC-DC Steady State Solution
-c-dTAuHdaEk == DC-DC Block Diagram
-YmMFfHqZuI4 == DC-DC Oscillator and Control
-XjaekM8oARA == DC-DC Construction and Waveforms
-wQdtfwv_IwQ == Sinusoids are important
-jlJvSnBPwSk == DEMO Sinusoidal amplifier response
-c5iCmI51w5A == Approach to solving sinusoidal problems
-ZUgwgFvWQcU == Usual differential equation DE approach
-ZmWyIQPYPLU == Usual DE solution approach
-6hSrC7mRxZE == Try an exponential input instead
-CC_sZ-KU5u8 == Particular Solution to Exponential Input
-AmgDWkQIJY0 == Particular Solution to Cosine Input - Part 1
-fwKrnD2vuJA == Particular Solution to Cosine Input - Part 2
-bOsAyfb1dOU == Homogeneous solution and total solution
-CgawgquWg8s == Sinusoidal Steady State SSS Solution
-OteiZAJwPmM == Visualizing SSS Solution Approach
-5dRueDsCaVw == Summary of SSS Approach
-sf-D7cmHwME == SSS Magnitude and Phase Plots
-ZZIHgTa3TZ8 == Preview of Upcoming Attractions
-yJ22l-PnD_M == Review - Sinusoidal Steady State
-F5ahYI7BkK4 == Review - SSS Part 2
-g0vn_Dmj4po == Is There a Simpler Way to get Vp
-iY8Q9Myo40s == The Impedance Model
-5V_USmwTMNU == The Impedance Model - Inductor
-gxM-tmGmCms == Element Impedance Models
-BDhYnjp2674 == RC Example - Impedance Model
-dc6KNK-fviE == RC Example - Impedance Model
-vzKrvSZi2f0 == Signal Notation and Impedance Model Summary
-D6XVWJDuVVE == Series RLC Example - Impedance Model
-FZ1NkJVYCqg == Series RLC Example - Impedance Model
-cJvQXb9k934 == The Big Picture
-iginIpf4E0c == Series RLC - Deriving the Frequency Response
-3LBq4XCDrdc == Series RLC - Frequency Response Plot
-cuYYSxFCfGQ == Review of Cartesian and Polar Form
-hehbS2BXrMM == Complex Multiplication
-B_C8tHx7Z-8 == Complex Division
-ix8Mj1nnLjA == Miller capacitor
-yYb-XWqIA8Y == Complex number exercise, part a
-HnXvm3qXQdI == Complex number exercise, part b
-1I1XQIBt4MA == Complex number exercise, part c
-GjuV17tgr14 == Complex number exercise, part d
-o6BD5paQWrc == Impedance and transfer functions
-aJ08zkL8r-c == Review
-ckoHOUDyM1E == Review 2
-gyM4EJ_8s7Q == Review of impedances
-2xC__sb07_Q == Introduction to Filters
-xfaWa7dZT6U == Series RLC bandpass
-l9xOCKDLUCM == Series RLC Bandstop
-snB5FD15yhY == Another Filter Example
-5l8fcyCmZqY == AM Radio Receiver
-OVJrpACCJaI == AM Radio Receiver
-g0L7FnEt2Dc == DEMO - AM Radio receiver
-H_mKM2tyxmg == RLC Capacitor Response Peakiness
-jfgUWjA0GpM == RLC Capacitor Response Peakiness and Q
-0dv3uS7Qcrk == RLC Capacitor Response Peakiness and Q - Part 2
-ybMYYKJkt-E == Selectivity of Series RLC Filter
-Xi4PaxMXeFY == Selectivity and Bandwidth of Filter
-iJN8mXSJxQE == Selectivity and Bandwidth of Filter - Part 2
-ScmR2J1OA0Q == Another Way of Looking at Q
-I_NuAoWJWy0 == Pole Zero Approach Part 1
-kvJZo6MA7bA == Pole Zero Approach Part 2
-w13Xlf_RxKI == Pole Zero Approach Examples
-pffNGJBQeeI == Review
-QEwK733626g == Review - Filters
-EUgw-f5cwcw == Q Indicates Peakiness
-bJ3Q-Maxo2w == Mapping Frequency Domain to Time Domain
-AVMeS-Edo0s == Using Q to Compare TD and FD - Overdamped Case
-8Qh8HpHwupk == Using Q to Compare TD and FD - Underdamped case
-wVeLi4ZS5us == Using Q to Compare TD and FD - Critically Damped case
-hnA33k3i3-E == Designing a frequency response, part a
-ONWy5Zaw1Mc == Designing a frequency response, part b
-7RNcqBylK24 == Designing a frequency response, part c
-S3et2w6TIlM == Designing a frequency response, part d
-CAVGlWUFzMY == Circuit from Bode plot
+# WORKING
+#SARifVyl31E | Welcome to Circuits and Electronics 1
+#P9I8ZCcl-cQ | Lumped element abstraction
+#4znM0dBL5IU | Lumped element abstraction
+#5M9cgafkXJI | Lumped element abstraction
+#o20JCdq1Iw4 | Lumped element abstraction
+#X51ZVdQ3DfE | Demo Setup - Lumped Elements
+#kwDyvWzO-H0 | Demo - Taking Abstraction Too Far
+#lbSGLpqSUoM | Lumped Element Abstraction
+#z57XCPA8wdQ | Lumped Element Abstraction
+#dgRnt37V3Zk | KVL, KCL
+#jhzE4wcL8rQ | Summary
+#Onih-XnNaHE | Review - Kirchhoff's Voltage &amp; Current Laws
+#7E6vm__Y4zo | Demo - Kirchhoff's Voltage &amp; Current Laws
+#dsUFu3GOiqU | Method 1 - Kirchhoff's Voltage &amp; Current Laws
+#eNz5fFolopI | Method 1 - Kirchhoff's Voltage &amp; Current Laws
+#L1bStd_ZSrM | Element combination rules
+#u8yZVlbfmlE | Node Analysis
+#yI7cKzjXFuM | Method 3 - Node Analysis
+#aBiJH3GCV-g | Method 3 - Node Analysis
+#2tk1KN6FTHI | Method 3 - Node Analysis
+#iYbLQp6Elik | Method 3 - Node Analysis
+#1FY4PCSwW5I | Matrix formulation
+
+#dfOgGeY6JGc | Tutorial intro by Piotr and Gerry
+https://youtu.be/AQfYNn3ltbI
+%%"AQfYNn3ltbI": "dfOgGeY6JGc",
+
+#ZWcUNPyK2TM | Series resistors
+https://youtu.be/2szjZQrVPcA
+%%"2szjZQrVPcA": "ZWcUNPyK2TM",
+
+#VXiVNpo3fgo | Parallel Resistors
+https://youtu.be/h5un9eTgQbU
+%%"h5un9eTgQbU": "VXiVNpo3fgo",
+
+#zG7ZrP4hXz4 | Series and parallel resistors
+https://youtu.be/72ktk_Q-L4k
+%%"72ktk_Q-L4k": "zG7ZrP4hXz4",
+
+#lOLeXP1Tjrc | Combination Rules
+https://youtu.be/HRDQP59ZSw8
+%%"HRDQP59ZSw8": "lOLeXP1Tjrc",
+
+#6DD4tAlzsII | Nodal analysis
+https://youtu.be/2bx4AcaFuZE
+%%"2bx4AcaFuZE": "6DD4tAlzsII",
+
+#yh8IMCzlE08 | Nodal Analysis with Floating Voltage Source
+https://youtu.be/yZYbPDvhrgY
+%%"yZYbPDvhrgY": "yh8IMCzlE08",
+
+#ZhMiWBaqFb0 | Maxwell's Equations and the Circuit Abstraction
+https://youtu.be/rqIzc_8mwC0
+%%"rqIzc_8mwC0": "ZhMiWBaqFb0",
+
+#bSDmv3_n32Y | A light bulb circuit
+https://youtu.be/o2pLltkrhGM
+%%"o2pLltkrhGM": "bSDmv3_n32Y",
+
+#07mjRg1XOg4 | Three Resistors
+https://youtu.be/6SKuj9DL57A
+%%"6SKuj9DL57A": "07mjRg1XOg4",
+
+#JmGQow9qZzE | Three Resistors in Parallel
+https://youtu.be/TbZs6MV-cM4
+%%"TbZs6MV-cM4": "JmGQow9qZzE",
+
+#5_0nhpn3ddE | Combining Resistors
+https://youtu.be/D7XCZlqBPU0
+%%"D7XCZlqBPU0": "5_0nhpn3ddE",
+
+#W1yYxUb89Tg | Resistor Network
+https://youtu.be/RorXnZl5kYQ
+%%"RorXnZl5kYQ": "W1yYxUb89Tg",
+
+#pb0m_1sMEf8 | Chains of resistors
+https://youtu.be/HaCCN9l_lxk
+%%"HaCCN9l_lxk": "pb0m_1sMEf8",
+
+#YDg_U4zBsDg | More chains of resistors
+https://youtu.be/iO-TFdSwsq4
+%%"iO-TFdSwsq4": "YDg_U4zBsDg",
+
+#piX3gQ2Z30I | Even more chains of resistors
+https://youtu.be/HKBIMLzuuBg
+%%"HKBIMLzuuBg": "piX3gQ2Z30I",
+
+#AiLyaxPDaPM | Yet some more chains of resistors
+https://youtu.be/Ifu1Ud-lk08
+%%"Ifu1Ud-lk08": "AiLyaxPDaPM",
+
+#6JTj7LXKw38 | Reverse Engineering
+https://youtu.be/Id8zWCeKFAg
+%%"Id8zWCeKFAg": "6JTj7LXKw38",
+
+# these are working
+#wkGkTmIPIrY | Introduction to Linearity
+#HUJSDavc9_8 | Properties of Linearity
+#uLGueZAcvS4 | Superposition 1
+#GmdNxZVcCTU | Superposition 2
+#MoikZcl4gMQ | Superposition 3
+#-mmRmr8Ssv0 | Demo on Superposition
+#2_jOGqoYQ0w | Thevenin Method 1
+#n20pq7K6dzI | Thevenin Method 2
+#i7qO3HK2k2Y | Thevenin Method 3
+#0PmFncn85qU | Norton Method
+#9bAAjZxkB0I | Summary
+
+#PfY88Ntcw1w | Static Discipline and Boolean Logic - Intro, Review
+https://youtu.be/0f96IDJyV0w
+%%"0f96IDJyV0w": "PfY88Ntcw1w",
+
+#tpgdjGXa_zI | Why Digital 1
+https://youtu.be/Dr52vjOHCEk
+%%"Dr52vjOHCEk": "tpgdjGXa_zI",
+
+#EYp3Pc5PbDU | Why Digital 2
+https://youtu.be/HHy3-8bfldY
+%%"HHy3-8bfldY": "EYp3Pc5PbDU",
+
+#cK-jVbxvKLU | Why Digital 3
+https://youtu.be/lf80RAv9meE
+%%"lf80RAv9meE": "cK-jVbxvKLU",
+
+#pVM1lKFYMzE | Static Discipline
+https://youtu.be/gntWSKPBkOk
+%%"gntWSKPBkOk": "pVM1lKFYMzE",
+
+#wzdQywtHD4k | Static Discipline
+https://youtu.be/0ZeuYSMdHJI
+%%"0ZeuYSMdHJI": "wzdQywtHD4k",
+
+#Oewa1QOPkTo | Static Discipline
+https://youtu.be/qs0RJz5mmYg
+%%"qs0RJz5mmYg": "Oewa1QOPkTo",
+
+#RLcyZK2p1-U | Static Discipline
+https://youtu.be/JZtoX5DH4T0
+%%"JZtoX5DH4T0": "RLcyZK2p1-U",
+
+#zVi2VGXtd1U | Static Discipline
+https://youtu.be/ma0f56zkRGI
+%%"ma0f56zkRGI": "zVi2VGXtd1U",
+
+#W4-jJtA5wC4 | Digital Logic Circuits
+https://youtu.be/-RNnPC6fmjY
+%%"-RNnPC6fmjY": "W4-jJtA5wC4",
+
+#1BYXFQ3mXHk | Digital Logic Circuits
+https://youtu.be/Jl09eulUf0Q
+%%"Jl09eulUf0Q": "1BYXFQ3mXHk",
+
+#JLeVpx8Ks04 | Digital Logic Circuits
+https://youtu.be/N6Ly6_tFy4I
+%%"N6Ly6_tFy4I": "JLeVpx8Ks04",
+
+#hcgsf7maQ5U | Digital Logic Circuits
+https://youtu.be/d9YCPd6nZSQ
+%%"d9YCPd6nZSQ": "hcgsf7maQ5U",
+
+#dck7OO7oZZ8 | Digital Logic Circuits
+https://youtu.be/es8TOiaouSw
+%%"es8TOiaouSw": "dck7OO7oZZ8",
+
+#lyO5hHQanUU | Demo Setup - Chain Saw
+https://youtu.be/N3jXyuAz5Dg
+%%"N3jXyuAz5Dg": "lyO5hHQanUU",
+
+#UEq8vEggZNY | Demo - Chain Saw
+https://youtu.be/LOOsbsBLT7M
+%%"LOOsbsBLT7M": "UEq8vEggZNY",
+
+#TGP2vfieB-8 | Resistor Question
+https://youtu.be/Sef9PgMlTS4
+%%"Sef9PgMlTS4": "TGP2vfieB-8",
+
+#VvS0knaixU0 | Resistor Answer
+https://youtu.be/oV_GKiW7I4k
+%%"oV_GKiW7I4k": "VvS0knaixU0",
+
+#A_hTaMhdaZs | Diode Question
+https://youtu.be/_uxoI3ejIi8
+%%"_uxoI3ejIi8": "A_hTaMhdaZs",
+
+#sdz7gNe03p0 | Diode Answer
+https://youtu.be/GBzPJYfNfUQ
+%%"GBzPJYfNfUQ": "sdz7gNe03p0",
+
+#z8_XiWAvFRI | Voltage Source Question
+https://youtu.be/-qWf9afcBcw
+%%"-qWf9afcBcw": "z8_XiWAvFRI",
+
+#zyhqKNQ7_oo | Voltage Source Answer
+https://youtu.be/tlJ5r-fVSpA
+%%"tlJ5r-fVSpA": "zyhqKNQ7_oo",
+
+#MISSING | Current Source Question
+
+#dSiy0aYgm9A | Current Source Answer
+https://youtu.be/MqFWW78C5JI
+%%"MqFWW78C5JI": "dSiy0aYgm9A",
+
+#GRZ0q4DnRn4 | Composite Circuit Question
+https://youtu.be/shjp5pkFhQs
+%%"shjp5pkFhQs": "GRZ0q4DnRn4",
+
+#tyMxY_5l2eg | Composite Circuit Answer
+https://youtu.be/FS7VH9i14RU
+%%"FS7VH9i14RU": "tyMxY_5l2eg",
+
+#g9kCH1WaJNg | How good is the lightbulb model?
+https://youtu.be/mHvf1lfRoj0
+%%"mHvf1lfRoj0": "g9kCH1WaJNg",
+
+#8_RV4YdL6iw | Using nodal analysis
+https://youtu.be/_t8T4QpzDxk
+%%"_t8T4QpzDxk": "8_RV4YdL6iw",
+
+#6TxxJW78ab0 | Using superposition
+https://youtu.be/l9SBQ_OAXpI
+%%"l9SBQ_OAXpI": "6TxxJW78ab0",
+
+#Afw-Cl0S8EA | Logic gates, part 1
+#2clqcvqrCw | Logic gates, part 2
+#jUvteJXf0MA | Thevenin example 1
+#fxmDaefdHiw | Speakers, Heatsinks, and Houses
+#QhuR93mb4XY | Cardiac Experiment
+
+
+#QuHuGrkdbgU | Review, Gates
+https://youtu.be/FLVUXzXfblQ
+%%"FLVUXzXfblQ": "QuHuGrkdbgU",
+
+#3ZMci0KGxVo | Demo Setup - Gates
+https://youtu.be/NC_dxHZwREU
+%%"NC_dxHZwREU": "3ZMci0KGxVo",
+
+#RMHnZIcLnpo | Demo - Gates
+https://youtu.be/Gdl9iu5O1NE
+%%"Gdl9iu5O1NE": "RMHnZIcLnpo",
+
+#ILQHYT_Ibrg | How to Use a Gate
+https://youtu.be/Eu_e11FcCq4
+%%"Eu_e11FcCq4": "ILQHYT_Ibrg",
+
+#jjargr1OqAk | Switch Model
+https://youtu.be/7_GjgHt4zkM
+%%"7_GjgHt4zkM": "jjargr1OqAk",
+
+#77rUrZjUses | Switch Model
+https://youtu.be/9vogoLiO2jM
+%%"9vogoLiO2jM": "77rUrZjUses",
+
+#uVLvyxVJjtY | Switch Model
+https://youtu.be/gZ6D6XfuJXA
+%%"gZ6D6XfuJXA": "uVLvyxVJjtY",
+
+#Zxqh4uvbFXM | Switch Model
+https://youtu.be/aNBsTCVau6s
+%%"aNBsTCVau6s": "Zxqh4uvbFXM",
+
+#zKm3J3eAre4 | MOSFET Device, S Model, Demo Setup
+https://youtu.be/jlX8hpZvnUQ
+%%"jlX8hpZvnUQ": "zKm3J3eAre4",
+
+#lNzx0HYQUY0 | MOSFET Device, S Model, Demo Setup
+WORKING
+
+#Nk9suWjmls8 | MOSFET Device, S Model, Demo Setup
+https://youtu.be/jiSZUxAIWNk
+%%"jiSZUxAIWNk": "Nk9suWjmls8",
+
+#uEh4FoDUo8k | DEMO MOSFET Switch Device, S Model Curve
+https://youtu.be/4XNg0nsg1Tg
+%%"4XNg0nsg1Tg": "uEh4FoDUo8k",
+
+#ZJEGwnos7o4 | MOSFET Inverter
+https://youtu.be/DJafcK9z2uc
+%%"DJafcK9z2uc": "ZJEGwnos7o4",
+
+#takrussSdhE | MOSFET Inverter
+https://youtu.be/DZPdezZATvk
+%%"DZPdezZATvk": "takrussSdhE",
+
+#kq373W157sw | SR Model
+https://youtu.be/Z5b1oBBtvyA
+%%"Z5b1oBBtvyA": "kq373W157sw",
+
+#YOzKoMzm2dw | DEMO SR Model Curve
+https://youtu.be/5uKqMpQqNtk
+%%"5uKqMpQqNtk": "YOzKoMzm2dw",
+
+#TuHH7hziz_I | Inverters Based on SR Model
+https://youtu.be/7g7jzGnqffE
+%%"7g7jzGnqffE": "TuHH7hziz_I",
+
+#J1h4xiLnQbs | Static Power in Digital Circuits, Insights
+https://youtu.be/SRSYiAuesj8
+%%"SRSYiAuesj8": "J1h4xiLnQbs",
+
+#CbiEQwBWC1A | Demo - Shatter a Mouse
+https://youtu.be/jdn9hXyviCE
+%%"jdn9hXyviCE": "CbiEQwBWC1A",
+
+#NAp2cKUT8Nk | Review of the Course So Far
+https://youtu.be/ES4VVGjf13U
+%%"ES4VVGjf13U": "NAp2cKUT8Nk",
+
+#FSkJ1DajGWI | Nonlinear Elements
+https://youtu.be/qxXZuPKCEXk
+%%"qxXZuPKCEXk": "FSkJ1DajGWI",
+
+#qnhJtoCpS4U | Method 1 - Analytical Method
+https://youtu.be/gK9ooBfAuEc
+%%"gK9ooBfAuEc": "qnhJtoCpS4U",
+
+#QVuuyuwAdWM | Method 1 - Analytical Method
+https://youtu.be/ZgWmK7vjOLo
+%%"ZgWmK7vjOLo": "QVuuyuwAdWM",
+
+#vQWbi6rorOc | Method 1 - Analytical Method
+https://youtu.be/w0BgSQZCnLM
+%%"w0BgSQZCnLM": "vQWbi6rorOc",
+
+#aorFE5ojAiM | Method 2 - Graphical Method
+https://youtu.be/ACwDG8aZOpI
+%%"ACwDG8aZOpI": "aorFE5ojAiM",
+
+#_zR_RWatho8 | Method 2 - Graphical Method
+https://youtu.be/m5-b1I_lhLU
+%%"m5-b1I_lhLU": "_zR_RWatho8",
+
+#T2sDGIKQJ80 | Method 3 - Piecewise Linear Method
+https://youtu.be/URDBeyXg7oA
+%%"URDBeyXg7oA": "T2sDGIKQJ80",
+
+#-rkh4JU4jL4 | Method 3 - Piecewise Linear Method
+https://youtu.be/HSqbzBmd3Lw
+%%"HSqbzBmd3Lw": "-rkh4JU4jL4",
+
+#Esrldiv5IeE | Method 3 - Piecewise Linear Method
+https://youtu.be/08kTr0928uI
+%%"08kTr0928uI": "Esrldiv5IeE",
+
+#lV69Z5LVMh8 | Method 4 - Motivate the Incremental Method
+https://youtu.be/Db26EK3jdIw
+%%"Db26EK3jdIw": "lV69Z5LVMh8",
+
+#Hk2K5zUcrAE | Method 4 - Motivate the Incremental Method
+https://youtu.be/v0nKHp2ELs0
+%%"v0nKHp2ELs0": "Hk2K5zUcrAE",
+
+#puu8I2azvQ8 | Demo - Distorted Music with Nonlinear Element
+https://youtu.be/9oGx4uGvWZA
+%%"9oGx4uGvWZA": "puu8I2azvQ8",
+
+#Md-vLhog-ug | If Only Circuits Were Linear
+https://youtu.be/CLxINF65Bi8
+%%"CLxINF65Bi8": "Md-vLhog-ug",
+
+
+# where are these videos?
+#jDSS59cLsnw | Comparing noise margins
+#n_5905Y8yFo | Truth table to circuit, part 1
+#WmMKnoyi48o | Truth table to circuit, part 2
+#tWgR-SeQ5w4 | Truth table to circuit, part 3
+#c6xyF7KeGlE | MOSFET power dissipation
+#4chlMf53hjs | Load Lines
+#guhTZT_w2Po | Review
+
+
+#B40snYwJUXQ | Intro - Setup for Demo, Curve Plotting Animation
+https://youtu.be/XQOD0J-5vf8
+%%"XQOD0J-5vf8": "B40snYwJUXQ",
+
+#kKI5fX_vyNI | DEMO - Music Over a Light Beam, Distorted Sinusoid and Music
+https://youtu.be/tYuwhk0rleU
+%%"tYuwhk0rleU": "kKI5fX_vyNI",
+
+#Mwt2eg0r1Ng | Incremental Method Insight
+https://youtu.be/ou7LgMGBmkQ
+%%"ou7LgMGBmkQ": "Mwt2eg0r1Ng",
+
+#FT846xLuHIM | Incremental Method Insight
+https://youtu.be/MVDH7sF8zdQ
+%%"MVDH7sF8zdQ": "FT846xLuHIM",
+
+#yC57ihkg3yA | DEMO - Music Over a Light Beam, Distortion and No Distortion
+https://youtu.be/mbgjCcg0o6o
+%%"mbgjCcg0o6o": "yC57ihkg3yA",
+
+#rb-85PChqh0 | Mathematical Meaning 1
+https://youtu.be/2XgRwsPxhKM
+%%"2XgRwsPxhKM": "rb-85PChqh0",
+
+#60vzws37eRg | Mathematical Meaning 2
+https://youtu.be/BjAjB-EIezY
+%%"BjAjB-EIezY": "60vzws37eRg",
+
+#k1veAXTLZlE | Mathematical Meaning 3
+https://youtu.be/dzO5BqZ_en4
+%%"dzO5BqZ_en4": "k1veAXTLZlE",
+
+#I5gmmRbPt74 | Graphical Meaning
+https://youtu.be/xV-3Bv70riQ
+%%"xV-3Bv70riQ": "I5gmmRbPt74",
+
+#IZx7ZY-jNpI | Circuit Model 1
+https://youtu.be/FKS0RxHv-ho
+%%"FKS0RxHv-ho": "IZx7ZY-jNpI",
+
+#-3GStZkzk8E | Circuit Model 2
+https://youtu.be/IA4BYPyMP7o
+%%"IA4BYPyMP7o": "-3GStZkzk8E",
+
+#2PbAET-E2YA | Small Signal Circuit Elements 1
+https://youtu.be/pEvdYkTfJcI
+%%"pEvdYkTfJcI": "2PbAET-E2YA",
+
+#fJLul8ycrs0 | Small Signal Circuit Elements 2
+https://youtu.be/6jQf3f8tip8
+%%"6jQf3f8tip8": "fJLul8ycrs0",
+
+#Js8tV66_qR8 | Small-Signal Circuit Solution Example 1
+https://youtu.be/6UURLn3-LWw
+%%"6UURLn3-LWw": "Js8tV66_qR8",
+
+#U4Sw9-wrrX8 | Small-Signal Circuit Solution Example 2
+https://youtu.be/3IpzOz0OAis
+%%"3IpzOz0OAis": "U4Sw9-wrrX8",
+
+#b3mM-4nxQmY | Review
+https://youtu.be/3g5gEoUGD4w
+%%"3g5gEoUGD4w": "b3mM-4nxQmY",
+
+#CqxxQHM5-Ss | Intro to Dependent Sources
+https://youtu.be/pm_2sV1tIS8
+%%"pm_2sV1tIS8": "CqxxQHM5-Ss",
+
+#G8pxnaBLLPI | Example Dependent Source Circuit
+https://youtu.be/R6p-exei1yQ
+%%"R6p-exei1yQ": "G8pxnaBLLPI",
+
+#8m1yyI0lLUc | Various Types of Dependent Sources
+https://youtu.be/qehrY5JUkbQ
+%%"qehrY5JUkbQ": "8m1yyI0lLUc",
+
+#PlUD49sM0Jw | Another Dependent Source Example 1
+https://youtu.be/Pcofm5pfJf8
+%%"Pcofm5pfJf8": "PlUD49sM0Jw",
+
+#36E_Ltpnuhg | Another Dependent Source Example 2
+https://youtu.be/VyRijfXTAtc
+%%"VyRijfXTAtc": "36E_Ltpnuhg",
+
+#p5lABjD_HxY | Superposition with Linear Dependent Sources
+https://youtu.be/3fQRhKuSGsE
+%%"3fQRhKuSGsE": "p5lABjD_HxY",
+
+#Y6ga6dixHbM | Intro to Amplifiers, Why Amplify 1
+https://youtu.be/he_UAl7owSQ
+%%"he_UAl7owSQ": "Y6ga6dixHbM",
+
+#6IxZixMgXVU | Intro to Amplifiers, Why Amplify 2
+https://youtu.be/he_UAl7owSQ
+%%"he_UAl7owSQ": "6IxZixMgXVU",
+
+#-elmpPYqGzY | Build Amplifier with Abstract Dependent Source
+https://youtu.be/htk6E6nAsj8
+%%"htk6E6nAsj8": "-elmpPYqGzY",
+
+#3QBL5TKwFHk | Build Amplifier with Abstract Dependent Source
+https://youtu.be/q047qI7_Qcg
+%%"q047qI7_Qcg": "3QBL5TKwFHk",
+
+#-Hqt0Ahj5Gs | DEMO - Amplification
+https://youtu.be/dnUDhavprO8
+%%"dnUDhavprO8": "-Hqt0Ahj5Gs",
+
+#apOQVYcaQc8 | What Happens to Amplifier When Dependent Src has to Src Power 1
+https://youtu.be/AHA-1Odq9us
+%%"AHA-1Odq9us": "apOQVYcaQc8",
+
+#Hkzg0Yj3Pbo | What Happens to Amplifier When Dependent Src has to Src Power 2
+https://youtu.be/r2mabHxQZ34
+%%"r2mabHxQZ34": "Hkzg0Yj3Pbo",
+
+#vbDffSXkVtE | What Happens to Amplifier When Dependent Src has to Src Power 3
+https://youtu.be/_S14wuKRhFQ
+%%"_S14wuKRhFQ": "vbDffSXkVtE",
+
+#R42vYJpMiGg | DEMO - Amplifier Transfer Function Stops Behaving Well
+https://youtu.be/sPrAGCitiEw
+%%"sPrAGCitiEw": "R42vYJpMiGg",
+
+# WORKING.
+#HU7IJZZmRNA | Conclusion
+
+#K23PViorXBU | Load Line Experimental Demo
+https://youtu.be/LQmOCFwCw3s
+%%"LQmOCFwCw3s": "K23PViorXBU",
+
+#hnA51lLZvXI | Small-signal model
+https://youtu.be/rQqvUqvVdzk
+%%"rQqvUqvVdzk": "hnA51lLZvXI",
+
+#SIRrGtUoVrM | An abstract element
+https://youtu.be/M6zrANNaY9Q
+%%"M6zrANNaY9Q": "SIRrGtUoVrM",
+
+#C7hEh2xgim0 | Small signal model of a diode
+https://youtu.be/0CFJ2p3VQpk
+%%"0CFJ2p3VQpk": "C7hEh2xgim0",
+
+#lWZegW5ADDA | Good schematics
+https://youtu.be/oTsdePe8tHE
+%%"oTsdePe8tHE": "lWZegW5ADDA",
+
+
+
+# where are these videos?
+#rRfwAgW_fso | Current controlled attenuator
+#Tl4kLulV4ts | Large Signal Analysis
+#3CikI6QeEdY | Small-Signal Analysis
+#rseBRO0dbkU | Small-signal problem
+#4Bz9FKzHB7A | Load line
+#w92vXOAaAQs | Dependent source example
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ------------------------------------------------------------------
+# 6.004.2x
+IoFtnD4N63U, qU4VVEXw1nM | Circuits &amp; Electronics - 2.0 Welcome to Circuits and Electronics 2
+XRMvtdDJMIg, kY0iYX_PCTg | Circuits &amp; Electronics - 2.1.1.1 - Review
+wvJ48Om5Y7U, ee3F0JFhPJ4 | MOSFET Characteristics as a VCCS
+R4drsBmHht0, toVHjqsWgqA | DEMO - MOSFET SR model
+Ws1DfKmgDjI, NQp9YmQOHc8 | MOSFET characteristics as a dependent current source
+onmYNWm7Gsw, K1CngxaPcxI | DEMO - MOSFET characteristics as VCCS
+4AEREmEENGg | MOSFET SCS model
+upssTbehOZM | MOSFET SCS model
+SVUcmOsGwqE | MOSFET amplifier
+8cTTU7ud4Ck | MOSFET amplifier
+4B8tNR64xh8 | Analytical method for analyzing amplifier
+2iHwgeFww5c | Graphical method for analyzing amplifier
+HP39f5Zr3xk | Graphical method for analyzing amplifier
+bXghktFTTkE | Large signal analysis
+lVT1wr_P6JY | DEMO Amplifier entering into the triode region
+MZ4XnKyGQqY | Large signal analysis - valid ranges of operation
+eFI1B_WmOEY | Graphical method for analyzing amplifier
+L5cEFCC4Dmw | Valid ranges of operation - another way
+Yi1zPfJS-oA | Review
+W_yNATshIos | Amplifier distorts
+f8ydoyCrQoc | DEMO - Amplifier distorts
+DENkWAH7Ayw | The small signal trick
+DydjWxm5OT0 | Graphical view of small signal
+uY39H9olU54 | Mathematical view of small signal
+Tc1nc2nXLAU | Mathematical view of small signal
+gGV-LNVlO_0 | Small signal amplifier demo setup
+RpFEANm2i1c | DEMO small signal amplifier
+qaWoxW-6zsM | Op Amp Small Signal Model
+b3TYrF10FyI | Op amp small signal model, part 1
+P7amJvwhx5k | Op amp small signal model, part 2
+B7sXgXzQyrA | Op amp small signal model, part 3
+ax9R8hhSBCM | BJT small signal model, problem statement
+KQB-tSSfaGw | BJT small signal model, part 1
+6ejbKCkf7pY | BJT small signal model, part 2
+Sglr5Yb4BE8 | BJT small signal model, part 3
+wh4WsKCPqRE | BJT small signal model, part 4
+zrozpzrgV1E | BJT small signal model, part 5
+vEfl3MXN2EU | BJT small signal model, part 6
+2FjBxJknQrs | Large signal analysis of MOSFET amplifier
+NnKQcmL47d8 | Large signal analysis of MOSFET amplifier, source degeneration
+IgKpSaHBP7g | Transistor biasing with feedback, Part 1
+sk4EzNho5tM | Transistor biasing with feedback, part 2
+Jcay9L4AYUg | Diode connected MOSFET
+_d2aOXsigTk | Large and small signal analysis of MOSFET amplifier
+I7PRE3auORw | Review
+kjyma_Wz354 | Choosing an Operating Point for the Amplifier
+L1OX0LexJH8 | Choosing an Operating Point for the Amplifier
+AudCFIcYuC8 | DEMO - How to Choose the Bias Point for an Amplifier
+qJBB35j5Zrk | Small-Signal Circuit Model
+wdKkk5waw-s | Small Signal Element Circuit Models
+U5nP1ED2TIg | Small-Signal MOSFET Circuit Model
+OZZXQ9ia3v8 | Small-Signal Circuit Analysis of Amplifier
+MkjBfq8-nU8 | Small-Signal Circuit Analysis of Amplifier Continued
+GOeBXqwLH4o | Perspective on the Small Signal Circuit
+6YAsSu3PK6c | Perspective on the Small Signal Circuit
+JSf4FmoEDoM | Motivation
+4HAC9Ux3zeI | DEMO - Motivation
+Ik2fRwDAIA4 | Structure of a Capacitor 1
+Ow0Qlry6aBM | Structure of a Capacitor 2
+mm-dfzVUtrY | Structure of a Capacitor 3
+CS_xItVv-Wo | Ideal Linear Capacitor
+cTNEZT7CWdk | DEMO - Stored Energy in a Capacitor
+kV4oTArKSHE | Capacitor and a Current Source
+DGld3oGGamo | First Order Series RC Circuit 1
+-muSm14Gfug | First Order Series RC Circuit 2
+8Y0n-KqJXog | Solving a First Order Differential Equation 1
+yy9ZHWMi_6g | Solving a First Order Differential Equation 2
+4nc9Yb_okJY | Graphing the Solution to First Order RC Circuit 1
+YFX7C9Waax4 | Graphing the Solution to First Order RC Circuit 2
+0Dio_kJAbII | Graphing the Solution to First Order RC Circuit 3
+23yrq6HbUPU | DEMO - RC Transients
+_GiTn3kWA1I | Vacuum Triode Model
+d67MRYtvPvo | A more advanced model of the MOSFET
+WZ7tdnMBHTg | Two-stage MOSFET amplifier
+8oxXHiL8adw | Simple circuit with resistor and capacitor
+SWdB7kuUZM8 | Parallel plate capacitor, part 1
+ZwMj59b7X2Y | Parallel plate capacitor, part 2
+Ib4KJ54hN4c | Current source and current mirror
+KG2vznNMmMQ | Source coupled pair
+O7Lt0gA_5Ug | Ring Oscillator - Circuit
+9G5uSGESA68 | Ring Oscillator - Waveforms
+vGxPI0Jmt_A | Ideal Linear Inductors 1
+5bGDKcGX0JQ | Ideal Linear Inductors 2
+9Nms4LJ2qCY | Energy Storage in an Inductor
+o2ZQEhA4ebE | Inductor and a Voltage Source
+USGLE1QPI7s | Analyzing a First Order RL Circuit 1
+TFWKT5FUgg4 | Analyzing a First Order RL Circuit 2
+VwyfHZEPb_4 | Review
+6nxQ8EALsAA | Speed of Digital Circuits - An Intuitive Approach 1
+a9PzmvsqXH4 | Speed of Digital Circuits - An Intuitive Approach 2
+w44jDHX9nEA | DEMO - Inverter delay
+Ijsq1eWyb9g | Rising Delay 1
+MdGa5qUVXR0 | Rising Delay 2
+LMNHD-Wg7fs | Rising Delay 3
+Y3bjD1cNWIM | Falling Delay 1
+ySg2ofHZLks | Falling Delay 2
+n58AaBoVPEs | Falling Delay 3
+TkMTPEuihb4 | Slower May Be Better 1
+22TaKWscJq8 | Slower May Be Better 2
+Qa3aWHNAwKE | Bypass Capacitor
+ijTwD7fGY7k | Geometry and Capacitance Inductance
+gp011bFnyw0 | Constitutive laws for capacitors and inductors
+5jYXBfSIe5c | Unknown Capacitance
+LfbePMcRy2I | Unknown Inductance
+jvSZMd7VXzA | Time-varying Capacitance
+XhHxmWtYhwE | Types of Capacitors
+g4JM9-ntFwM | Motivation and review, modelling drug delivery
+acmUWC5nI9I | Step input
+AF9mlNub2T8 | RC response to rising step 1
+uOXAcwPMags | RC response to rising step 2
+mxWuyH3DtBI | RC response to rising step 3
+_m73q7rZ5ts | RC response to falling step 1
+RvSZLTABKx4 | RC response to falling step 2
+5RAaqdf8EDA | Pulse input 1
+YeHTJu_RZw8 | Pulse input 2
+mb9ITLiZHs4 | Pulse input 3
+IZbkuuXB4mc | Pulse input 4
+-1nQlxEBzBY | Response to pulse, as pulse gets narrower 1
+TwRljtSX9ew | Response to pulse, as pulse gets narrower 2
+lGR83KsBRaw | Response to impulse, limit case 1
+PGpamVtS-R0 | Response to impulse, limit case 2
+OZ2we1jqIEY | Response to impulse, drug delivery
+NP-4-cM8ch4 | Current and voltage impulses
+EElD9YIOfTY | Initial conditions and superposition
+9Up3gRoOBtk | Impulses, steps and ramps 1
+ccQMeMdydrs | Impulses, steps and ramps 2
+giUVsj5dYfI | More on slower may be better demo
+QVj_KCRubHk | Slower may be better - why?
+HXbcpqTM1Tg | Slower may be better, model
+hNkGlbJulew | Spikes explained - crosstalk
+MKiklDzr7RA | Slower may be better, demo part 1
+Z-xvTOBYoqo | Slower may be better, demo part 2
+B7HKRhR4G2Q | Slower may be better, ramp input
+8DronXE_VXM | Review
+Ruio-kTuOc4 | Concept of state
+5rckwWE1CpI | ZIR and ZSR
+I-PrtMTdbwo | Digital memory abstraction
+hHrbleVQL6A | Building a memory element
+xFGAz259v9I | Storage time
+1BcwDZAw9W4 | Building a better static memory element 1
+1G6xCm7qqyo | Building a better static memory element 2
+krUO_sSDLKw | A digital memory array 1
+NlrolO3vkk0 | A digital memory array 2
+O9utUs8q3qY | Conclusion
+WHjBICv660g | RC circuit step response
+XdVGTaOTqp4 | RC filter with a dependent source
+dFqSMTCNK84 | First order filter step responses
+MjPDsm4S3-o | Welcome to Circuits and Electronics 3
+NiZ1xxM4pTw | Motivating Example
+Uc8TMY46OV8 | DEMO Slow Output Risetime
+GMzJr52hasI | Motivating Example - Fast Case
+41pf5airIrM | Demo - Fast Case - Ringing
+dNfBk9kjwNk | What's Going on with the Fast Case
+AX8taRGNXoo | What's Going on with the Fast Case - Part 2
+GNC1s5JD4b0 | LC Network
+AEmDMFNTHFc | Solving Second Order Differential Equation DE, Particular Solutio
+mZIUhgFJmEQ | Particular and Homogeneous Solutions
+CwPex9xSYqA | Homogeneous Solution and Characteristic Equation
+njxKsUgSp60 | Total Solution - Part 1
+1saZpWbQ-lo | Total Solution - Part 2
+yLvWm9qmRiU | Plotting the Total Solution
+5jlG-3HYeH8 | DEMO Driven LC Network Response
+0_fEC90sSQU | Summary of Solving Second Order DEs
+mVT7388vh5M | Example - Undriven LC Circuit
+Qtiuw83WhH4 | Undriven LC Network Response
+yWDUxnuxM2o | Preview of RLC Circuits
+62RZxV5nd6Q | Review
+TrEo_ONvJLE | Driven, Series RLC Circuit
+H1os32ts0Vo | Setting up the Differential Equation
+ggc3hzOCe4U | Setting up the DE - Part 2
+zkxmcx5Gimg | An Easier Way of Setting Up the DE
+zQQ097pQIsw | Solving the Second Order DE
+QjmIbt5mZnQ | Particular Solution - Part 1
+eBWtlDLkwA0 | Particular Solution - Part 2
+_1QqJvGuN4Q | Homogenous Solution - Part 1
+hNdYDMLdQQ0 | Homogenous Solution - Part 2
+DBld_fXgS4Q | Total Solution
+IO49X5_pHAs | RLC Dynamics - Overdamped Case
+rOTkDNhsEDI | RLC Dynamics - Underdamped Case
+7uKLP1Ptm8Y | RLC Dynamics - Underdamped Case, Part 2
+1ASdm2lirCA | Underdamped Case - Response
+tALw3sx6AmI | RLC Dynamics - Critically Damped Case
+gBPoc7brEL8 | Inverter Pair RLC Dynamics
+eX_JrVWHo4k | Intuitive Analysis of Second Order Circuits - Part 1
+4i0MoRN394E | Intuitive Analysis of Second Order Circuits - Part 2
+iIJAmF7rIH4 | Other Variables in RLC Circuits
+YU0TZupUoRg | Driven, Parallel RLC Circuit
+gx6dJxPrinY | Step response of RC and RLC circuits, part 1
+DwjBRwibbt8 | Step response of RC and RLC circuits, part 2
+7ozCxbf5omU | Step response of RC and RLC circuits, part 3
+CqelB_JrnOA | Step response of RC and RLC circuits, part 4
+yIVEq6mzCLQ | Step response of RLC
+AJxW99_GxNI | Response of RLC to change in conditions
+O7dbCO1TQ_I | Natural frequencies of RLC circuits, part 1
+unTa-uFj8ss | Natural frequencies of RLC circuits, part 2
+IUQjA0GgBHo | Natural frequencies of RLC circuits, part 3
+zF3KUIT3-Ec | Natural frequencies of RLC circuits, part 4
+oVhBCeY2IVI | Design of an LC oscillator
+EHdr_bokSLU | DC-DC Circuit Concept
+KHY_-1URTi0 | DC-DC Conceptual Analysis
+Maoa6UqkWSY | DC-DC Steady State Solution
+c-dTAuHdaEk | DC-DC Block Diagram
+YmMFfHqZuI4 | DC-DC Oscillator and Control
+XjaekM8oARA | DC-DC Construction and Waveforms
+wQdtfwv_IwQ | Sinusoids are important
+jlJvSnBPwSk | DEMO Sinusoidal amplifier response
+c5iCmI51w5A | Approach to solving sinusoidal problems
+ZUgwgFvWQcU | Usual differential equation DE approach
+ZmWyIQPYPLU | Usual DE solution approach
+6hSrC7mRxZE | Try an exponential input instead
+CC_sZ-KU5u8 | Particular Solution to Exponential Input
+AmgDWkQIJY0 | Particular Solution to Cosine Input - Part 1
+fwKrnD2vuJA | Particular Solution to Cosine Input - Part 2
+bOsAyfb1dOU | Homogeneous solution and total solution
+CgawgquWg8s | Sinusoidal Steady State SSS Solution
+OteiZAJwPmM | Visualizing SSS Solution Approach
+5dRueDsCaVw | Summary of SSS Approach
+sf-D7cmHwME | SSS Magnitude and Phase Plots
+ZZIHgTa3TZ8 | Preview of Upcoming Attractions
+yJ22l-PnD_M | Review - Sinusoidal Steady State
+F5ahYI7BkK4 | Review - SSS Part 2
+g0vn_Dmj4po | Is There a Simpler Way to get Vp
+iY8Q9Myo40s | The Impedance Model
+5V_USmwTMNU | The Impedance Model - Inductor
+gxM-tmGmCms | Element Impedance Models
+BDhYnjp2674 | RC Example - Impedance Model
+dc6KNK-fviE | RC Example - Impedance Model
+vzKrvSZi2f0 | Signal Notation and Impedance Model Summary
+D6XVWJDuVVE | Series RLC Example - Impedance Model
+FZ1NkJVYCqg | Series RLC Example - Impedance Model
+cJvQXb9k934 | The Big Picture
+iginIpf4E0c | Series RLC - Deriving the Frequency Response
+3LBq4XCDrdc | Series RLC - Frequency Response Plot
+cuYYSxFCfGQ | Review of Cartesian and Polar Form
+hehbS2BXrMM | Complex Multiplication
+B_C8tHx7Z-8 | Complex Division
+ix8Mj1nnLjA | Miller capacitor
+yYb-XWqIA8Y | Complex number exercise, part a
+HnXvm3qXQdI | Complex number exercise, part b
+1I1XQIBt4MA | Complex number exercise, part c
+GjuV17tgr14 | Complex number exercise, part d
+o6BD5paQWrc | Impedance and transfer functions
+aJ08zkL8r-c | Review
+ckoHOUDyM1E | Review 2
+gyM4EJ_8s7Q | Review of impedances
+2xC__sb07_Q | Introduction to Filters
+xfaWa7dZT6U | Series RLC bandpass
+l9xOCKDLUCM | Series RLC Bandstop
+snB5FD15yhY | Another Filter Example
+5l8fcyCmZqY | AM Radio Receiver
+OVJrpACCJaI | AM Radio Receiver
+g0L7FnEt2Dc | DEMO - AM Radio receiver
+H_mKM2tyxmg | RLC Capacitor Response Peakiness
+jfgUWjA0GpM | RLC Capacitor Response Peakiness and Q
+0dv3uS7Qcrk | RLC Capacitor Response Peakiness and Q - Part 2
+ybMYYKJkt-E | Selectivity of Series RLC Filter
+Xi4PaxMXeFY | Selectivity and Bandwidth of Filter
+iJN8mXSJxQE | Selectivity and Bandwidth of Filter - Part 2
+ScmR2J1OA0Q | Another Way of Looking at Q
+I_NuAoWJWy0 | Pole Zero Approach Part 1
+kvJZo6MA7bA | Pole Zero Approach Part 2
+w13Xlf_RxKI | Pole Zero Approach Examples
+pffNGJBQeeI | Review
+QEwK733626g | Review - Filters
+EUgw-f5cwcw | Q Indicates Peakiness
+bJ3Q-Maxo2w | Mapping Frequency Domain to Time Domain
+AVMeS-Edo0s | Using Q to Compare TD and FD - Overdamped Case
+8Qh8HpHwupk | Using Q to Compare TD and FD - Underdamped case
+wVeLi4ZS5us | Using Q to Compare TD and FD - Critically Damped case
+hnA33k3i3-E | Designing a frequency response, part a
+ONWy5Zaw1Mc | Designing a frequency response, part b
+7RNcqBylK24 | Designing a frequency response, part c
+S3et2w6TIlM | Designing a frequency response, part d
+CAVGlWUFzMY | Circuit from Bode plot
  
