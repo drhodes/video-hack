@@ -1,6 +1,24 @@
 * 6.002x video hack.
-this project is a chrome extension that swaps out bad youtube video
-urls for good urls.  It is not done yet.
+This is a chrome extension that swaps youtube videos.
+
+How to install?
+
+1) Download the code. unzip it if necessary and rename the directory: 6002x-hack
+
+2) enter the following text into the URL bar:  
+
+chrome://extensions/
+
+3) click the "load unpacked" button
+
+4) select the directory 6002x-hack
+
+----
+
+How to tell the extensions is loaded?  A small icon with the number 6
+should be among the extension icons in the upper right corner of the
+chrome browser window.
+
 
 
 * Installing with chrome
