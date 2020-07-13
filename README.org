@@ -13,9 +13,13 @@ How to install?
 
 chrome://extensions/
 
+- select "developer mode" switch in the upper right corner
+
 - click the "load unpacked" button
 
 - select the directory 6002x-hack
+
+that should be all there is to it.
 
 ----
 
